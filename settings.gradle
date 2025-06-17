@@ -1,0 +1,5 @@
+rootProject.name = 'goody-server'
+
+include 'goody-server-domain'
+include 'goody-server-infra'
+include 'goody-server-api'
